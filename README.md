@@ -21,3 +21,6 @@
 10. while简单使用 - while_demo.py
 11. 打印九九乘法表 - multiplication_tables.py
 12. 输入一个数判断是不是素数 - prime_number_check.py
+
+20191209
+1. 计算一个数的最大公约数和最小公倍数 - gcd_lcm.py
