@@ -24,3 +24,14 @@
 
 20191209
 1. 计算一个数的最大公约数和最小公倍数 - gcd_lcm.py
+2. 使用循环绘制一些简单的图形 - pic_draw.py
+3. 寻找出所有水仙花数 - narcissistic_number_find.py
+4. 正整数反转 - int_reverse_py
+5. 百钱百鸡问题 - baiqianbaiji.py
+6. CRAPS游戏 - CRAPS.py
+7. 找出斐波那契数列的前二十个数 - fibonacci_sequence.py
+8. 找出10000以内的完美数 - perfect_number.py
+9. 简单使用函数 - func_demp.py
+10. 简单使用模块 - module_demo.py
+11.判断一个数是不是回文素数 - is_palindrome.py
+
