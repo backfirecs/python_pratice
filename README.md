@@ -34,4 +34,8 @@
 9. 简单使用函数 - func_demp.py
 10. 简单使用模块 - module_demo.py
 11.判断一个数是不是回文素数 - is_palindrome.py
+12. 字符串的简单使用 - string_demo.py
+13. list的简单使用 - list_demo.py
+14. 元组的简单使用 - t_demo.py
+15. 集合的简单使用 - sets_demo.py
 
