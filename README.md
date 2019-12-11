@@ -39,3 +39,11 @@
 14. 元组的简单使用 - t_demo.py
 15. 集合的简单使用 - sets_demo.py
 
+20191211
+1. 字典的简单使用 - dict_demo.py
+2. 屏幕上显示跑马灯文字 - marquee.py
+3. 设计一个函数产生指定长度的验证码，验证码由大小写字母和数字构成 - check_code.py
+4. 设计一个函数返回给定文件名的后缀名 - file_suffix.py
+5. 设计一个函数返回传入的列表中最大和第二大的元素的值 - list_max_min_value.py
+6. 计算指定的年月日时这一年的第几天 - which_day.py
+7. 打印杨辉三角 - yanghui.py 
