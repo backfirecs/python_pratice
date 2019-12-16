@@ -46,4 +46,19 @@
 4. 设计一个函数返回给定文件名的后缀名 - file_suffix.py
 5. 设计一个函数返回传入的列表中最大和第二大的元素的值 - list_max_min_value.py
 6. 计算指定的年月日时这一年的第几天 - which_day.py
-7. 打印杨辉三角 - yanghui.py 
+7. 打印杨辉三角 - yanghui.py
+8. 幸运的基督徒 - luck_christian.py
+
+20191213
+1. 井字棋 - jingziqi.py
+2. 面向对象的一些简单示例 - class_demo.py
+3. 一个描述时间的类 - clock.py
+4. 描述两点之间的距离的类 - point.py
+5. 面向对象的一些简单练习 - object.py
+6. 静态方法的使用 - static_demo.py
+7. 类方法的简单使用 - class_method.py
+8. 继承的简单使用 - class_demo2.py
+9. 抽象类的简单使用 - abstract_class_demo.py
+10.奥特曼小游戏 - ultraman.py
+
+
