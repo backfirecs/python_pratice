@@ -62,3 +62,8 @@
 10.奥特曼小游戏 - ultraman.py
 
 
+20191217
+1. 简单工资结算系统 - salary.py
+2. GUI简单使用 - gui.py
+3. 文件操作 - file_opera.py
+4. json处理 - json.py
